@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kairan Dou(窦楷然)"
   avatar           : "images/profile.png"
-  bio              : "Welcome to my personal website! Feel free to just call me Kevin."
+  bio              : "Welcome to my personal website! Feel free to just call me Kevin. My current email address is dkr1@berkeley.edu
   location         : "California, United States" # Beijing, China
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "doukairan@mail.nankai.edu.cn"
+  email            : "dkr1@berkeley.edu"# "doukairan@mail.nankai.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

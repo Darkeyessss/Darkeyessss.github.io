@@ -25,7 +25,9 @@ My current research interests lie in:
 - **Building LLM-based agent**
 - **enhancing model reasoning through reinforcement learning**.
 
+If you would like to connect further, feel free to contact me via email. 
 
+You can also reach me **on WeChat** at:
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025.
