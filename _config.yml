@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kairan Dou"
+title                    : "Kairan Dou(窦楷然)"
 description              : "Kairan Dou's personal website"
 repository               : "Darkeyessss/Darkeyessss.github.io"
 google_scholar_stats_use_cdn : true
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kairan Dou"
   avatar           : "images/profile.png"
-  bio              : "Nankai University"
-  location         : "Beijing, China"
+  bio              : "Welcome to my personal website! Feel free to call me Kevin. My research interests include Large Language Model, Multimodal Learning and reinforcement learning(RL)."
+  location         : "California, United States" # Beijing, China
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -40,7 +40,7 @@ author:
   github           : "Darkeyessss" # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "darkeyes7729"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"

@@ -17,42 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there!😊 I'm Kairan Dou, a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/). Additionally, I completed an internship focusing on agent-related projects at Chinasoft International Co., Ltd., where I was honored with the Individual Excellence Award. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests lie in:
+- **Fine-tuning LLM**
+- **Multimodal Learning**
+- **Building LLM-based agent**
+- **enhancing model reasoning through reinforcement learning**.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025.
+- *2025.01*: &nbsp;🎉🎉 I arrived in Berkeley and commenced my exchange program.
+- *2024.12*: &nbsp;🎉🎉 My paper was accepted at AAAI 2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[From Words to Worth: Newborn Article Impact Prediction ](https://arxiv.org/pdf/2408.03934)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Penghai Zhao, Qinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSISP metric, achieving an NDCG@20 score of 0.901.
+- Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
+- Used LoRA to fine-tune and test 20+ large language models on server to evaluate prediction performance.
+- Authored and finalized sections of the paper, ensuring academic writing standards.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *09/2022-06/2026(estimate)*, B.Eng. in Computer Science, Nankai University.
+- *01/2025-05/2025*, BGA Program Exchange Student, University of California, Berkeley.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - present*, VCIP Lab, Nankai University, China.
+- *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.
+- *2023.05 - 2024.08*, Beijing Advanced Digital Technology Co., Ltd., China.
+
+# 💬 Projects
+- *2024.06 - present*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
+- *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms.
+- *2024.10*, Agent-based technology for automatic author disambiguation and information generation.
+
+
+
+
+# 🎖 Honors and Awards
+- *2024.08* Awarded Outstanding Individual for contributions to Chinasoft International Co., Ltd. 
+- *2024.02* Honorable Mention, Mathematical Contest in Modeling (MCM)
+
+
+
+# 💡 Patents
+
+- Patent pending: Agent-based retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, utilizing GitHub APIs and abstract syntax tree similarity algorithms.
