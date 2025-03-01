@@ -23,7 +23,7 @@ My current research interests lie in:
 - **Fine-tuning LLM**
 - **Multimodal Learning**
 - **Building LLM-based agent**
-- **enhancing model reasoning through reinforcement learning**.
+- **Enhancing model reasoning through reinforcement learning**.
 
 If you would like to connect further, feel free to contact me via email. 
 
@@ -62,7 +62,7 @@ Penghai Zhao, Qinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang
 # 💻 Internships
 - *2024.06 - present*, VCIP Lab, Nankai University, China.
 - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.
-- *2023.05 - 2024.08*, Beijing Advanced Digital Technology Co., Ltd., China.
+- *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.
 
 # 💬 Projects
 - *2024.06 - present*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
