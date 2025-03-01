@@ -27,7 +27,7 @@ My current research interests lie in:
 
 If you would like to connect further, feel free to contact me via email. 
 
-You can also reach me **on WeChat** at:
+You can also reach me **on WeChat** at: Darkeyes-
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025.
