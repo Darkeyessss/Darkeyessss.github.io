@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kairan Dou(窦楷然)"
-description              : "Kairan Dou's personal website"
+title                    : "Kairan Dou"
+description              : # "Kairan Dou's personal website"
 repository               : "Darkeyessss/Darkeyessss.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kairan Dou"
+  name             : "Kairan Dou(窦楷然)"
   avatar           : "images/profile.png"
-  bio              : "Welcome to my personal website! Feel free to call me Kevin. My research interests include Large Language Model, Multimodal Learning and reinforcement learning(RL)."
+  bio              : "Welcome to my personal website! Feel free to just call me Kevin."
   location         : "California, United States" # Beijing, China
   employer         :
   pubmed           : 
