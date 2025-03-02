@@ -44,9 +44,9 @@ You can also reach me **on WeChat** at: Darkeyes-
 Penghai Zhao, inghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSISP metric, achieving an NDCG@20 score of 0.901.
+- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
 - Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
-- Used LoRA to fine-tune and test 20+ large language models on server to evaluate prediction performance.
+- Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
 - Authored and finalized sections of the paper, ensuring academic writing standards.
 </div>
 </div>
