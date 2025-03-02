@@ -41,7 +41,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 [From Words to Worth: Newborn Article Impact Prediction ](https://arxiv.org/pdf/2408.03934)
 
-Penghai Zhao, inghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
