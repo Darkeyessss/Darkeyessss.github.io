@@ -81,3 +81,8 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 # 💡 Patents
 
 - Patent pending: Agent-based retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, utilizing GitHub APIs and abstract syntax tree similarity algorithms.
+
+# 🏃‍♂️ Hobbies
+- 🏸 Badminton: Played for approximately five years; member of the college team.​
+- 🎸 Guitar: Served as the vice president of the Guitar Club.​
+- 🎤 Singing: Recognized as one of the top ten singers in the college.​

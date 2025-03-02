@@ -22,7 +22,10 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Patents"
-    url: "/#-patentss"
+    url: "/#-patents"
+
+  - title: "Hobbies"
+    url: "/#-hobbies"
 
   
 
