@@ -39,7 +39,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Words to Worth: Newborn Article Impact Prediction ](https://arxiv.org/pdf/2408.03934)
+[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
 
 Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
