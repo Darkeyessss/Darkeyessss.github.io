@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!😊 I'm Kairan Dou, a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/). Additionally, I completed an internship focusing on agent-related projects at Chinasoft International Co., Ltd., where I was honored with the Individual Excellence Award. 
+Hi there!😊 I'm Kairan Dou, a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/) focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
 - **Fine-tuning LLM**
@@ -60,7 +60,8 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 # 💻 Internships
-- *2024.06 - present*, VCIP Lab, Nankai University, China.
+- *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
+- *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
 - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.
 - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.
 
