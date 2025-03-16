@@ -63,7 +63,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 - *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
 - *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
 - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.
-- *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.
+<!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
 # 💬 Projects
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
