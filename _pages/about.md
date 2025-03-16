@@ -20,10 +20,10 @@ redirect_from:
 Hi there!😊 I'm Kairan Dou, a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
-- **Fine-tuning LLM**
-- **Multimodal Learning**
+- **Multi-Modal RL Fine-Tuning**
+- **Adaptive Post-Training**
 - **Building LLM-based agent**
-- **Enhancing model reasoning through reinforcement learning**.
+- **Alignment Tuning**.
 
 If you would like to connect further, feel free to contact me via email. 
 
