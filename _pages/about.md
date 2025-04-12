@@ -20,10 +20,10 @@ redirect_from:
 Hi there!😊 I'm Kairan Dou, a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
-- Reinforcement Learning for Stability and Alignment in VLA Models
-- RL-Augmented Language Model Search and Semantic Retrieval
-- Post-Training Optimization of Large Multi-Modal and Language Models
-- Agent Architectures for Learning from Interaction and Feedback
+- Reinforcement learning for stability and alignment in VLA models
+- RL-augmented language model search and semantic retrieval
+- Post-training optimization of multi-modal and language models
+- Agent architectures for learning from interaction and feedback
 
 
 My broader goal is to build scalable post-training frameworks for multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
