@@ -70,7 +70,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 # 💬 Projects
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 JobForce.AI
