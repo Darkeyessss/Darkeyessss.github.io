@@ -39,26 +39,20 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 # 📝 Publications 
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">AAAI 2025</div>
-      <img src="images/Poster.pdf" alt="Poster" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
-    <a href="https://arxiv.org/pdf/2408.03934"><strong>From Words to Worth: Newborn Article Impact Prediction with LLM</strong></a><br>
-    Penghai Zhao, Xinghua Xing, <strong>Kairan Dou</strong>, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li  
-    <br><br>
-    <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  - Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.  
-  - Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.  
-  - Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.  
-  - Authored and finalized sections of the paper, ensuring academic writing standards.  
-  </div>
+[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
+
+Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
+- Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
+- Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
+- Authored and finalized sections of the paper, ensuring academic writing standards.
 </div>
-
+</div>
 
 
 
@@ -76,26 +70,20 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 # 💬 Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <!-- <div class="badge">AAAI 2025</div> --> <!-- 已移除badge -->
-      <img src='images/Poster.pdf' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
+<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
 
-    <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-    - Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
-    - Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
-    - Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
-    - Authored and finalized sections of the paper, ensuring academic writing standards.
-  </div>
+Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
+- Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
+- Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
+- Authored and finalized sections of the paper, ensuring academic writing standards.
 </div>
-
+</div>
 
 
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
