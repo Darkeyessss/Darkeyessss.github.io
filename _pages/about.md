@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just call me Kevin. I am a junior undergraduate student majoring in Computer Science at Nankai University, currently participating in the Berkeley Global Access program at the University of California, Berkeley. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
+Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just call me Kevin. I am a junior undergraduate student majoring in Computer Science at Nankai University, currently an exchange student in the University of California, Berkeley. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
@@ -58,8 +58,8 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 # 📖 Educations
-- *09/2022-06/2026(estimate)*, B.Eng. in Computer Science, Nankai University.
-- *01/2025-05/2025*, BGA Program Exchange Student, University of California, Berkeley.
+- *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University.
+- *01/2025-05/2025*, Exchange Student, University of California, Berkeley.
 
 
 # 💻 Internships
@@ -69,6 +69,23 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
 # 💬 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
+
+Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
+- Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
+- Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
+- Authored and finalized sections of the paper, ensuring academic writing standards.
+</div>
+</div>
+
+
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
 - *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms.
 - *2024.10*, Agent-based technology for automatic author disambiguation and information generation.
