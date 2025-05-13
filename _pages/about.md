@@ -70,12 +70,14 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 # 💬 Projects
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
+JobForce.AI
 
-Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
+LLM-Powered Multi-Agent Platform for Job Seekers
+
+**Kairan Dou**, Mingxi Tang , Yiya You, Yufeng Yan
 
 - Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
 - Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
