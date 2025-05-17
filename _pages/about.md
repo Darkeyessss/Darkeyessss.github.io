@@ -22,8 +22,7 @@ Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
 - RL-augmented language model search and semantic retrieval
-- Post-training optimization of multi-modal and language models
-- Agent architectures for learning from interaction and feedback
+- Enhancing few-shot and zero-shot generalization in embodied agents
 
 
 My broader goal is to build scalable post-training frameworks for multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
@@ -79,24 +78,25 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 
 **Kairan Dou**, Mingxi Tang , Yiya You, Yufeng Yan
 
-- Proposed the "Newborn Article Impact Prediction" (Newborn AIP) task and introduced the TNCSIsp metric, achieving an NDCG@20 score of 0.901.
-- Constructed TKPD and NAID datasets, including over 12,000 samples for training and validation.
-- Used LoRA to fine-tune and test 5+ large language models on server to evaluate prediction performance.
-- Authored and finalized sections of the paper, ensuring academic writing standards.
+- End-to-end LLM-powered pipeline automates both resume rewriting and job matching in a single workflow.
+- Context-aware resume optimization tailors each experience using representative job descriptions and LLM-generated language.
+- Semantic embedding–driven selection ranks and condenses content based on normalized cosine similarity for maximum relevance.
+- Real-time, personalized job recommendations match optimized resumes against live postings filtered by user preferences.
+- Quantitative alignment evaluation delivers a clear 100-point score and visual feedback on resume–JD fit improvements.
 </div>
 </div>
 
 
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
 - *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms.
-- *2024.10*, Agent-based technology for automatic author disambiguation and information generation.
+<!-- - *2024.10*, Agent-based technology for automatic author disambiguation and information generation. 
 
 
 
 
 # 🎖 Honors and Awards
 - *2024.08* Awarded Outstanding Individual for contributions to Chinasoft International Co., Ltd. 
-- *2024.02* Honorable Mention, Mathematical Contest in Modeling (MCM)
+- *2024.02* Honorable Mention, Mathematical Contest in Modeling (MCM) -->
 
 
 
