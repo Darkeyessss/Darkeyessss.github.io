@@ -32,9 +32,10 @@ If you would like to connect further, feel free to contact me via email.
 You can also reach me **on WeChat** at: Darkeyes-
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 I finished my new paper.
 - *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025 in Philadelphia.
 - *2025.01*: &nbsp;🎉🎉 I arrived in Berkeley and commenced my exchange program.
-- *2024.12*: &nbsp;🎉🎉 My paper was accepted at AAAI 2025.
+- *2024.12*: &nbsp;🎉🎉 Our paper was accepted at AAAI 2025.
 
 # 📝 Publications 
 
