@@ -25,7 +25,7 @@ My current research interests lie in:
 - Enhancing few-shot and zero-shot generalization in embodied agents
 
 
-My broader goal is to build scalable post-training frameworks for multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
+My broader goal is to establish scalable, unified post-training frameworks for embodied multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
 
 If you would like to connect further, feel free to contact me via email. 
 
