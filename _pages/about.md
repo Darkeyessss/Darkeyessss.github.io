@@ -90,14 +90,11 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
 - *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms.
-<!-- - *2024.10*, Agent-based technology for automatic author disambiguation and information generation. 
+<!-- - *2024.10*, Agent-based technology for automatic author disambiguation and information generation. -->
 
 
 
 
-# 🎖 Honors and Awards
-- *2024.08* Awarded Outstanding Individual for contributions to Chinasoft International Co., Ltd. 
-- *2024.02* Honorable Mention, Mathematical Contest in Modeling (MCM) -->
 
 
 
