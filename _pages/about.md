@@ -74,6 +74,16 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 # 📖 Educations
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/ucb.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+*01/2025-05/2025*, Exchange Student, University of California, Berkeley.
+
+</div>
+</div>
+
+
 - *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University.
 - *01/2025-05/2025*, Exchange Student, University of California, Berkeley.
 
