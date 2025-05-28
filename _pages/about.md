@@ -72,47 +72,24 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 
-<div class="education-box">
 
-  <style>
-    .education-box .paper-box {
-      display: flex;
-      align-items: center;
-      margin-bottom: 20px;
-    }
+# 📖 Educations
 
-    .education-box .paper-box-image img {
-      width: 30%;
-      box-shadow: none; /* 去除图片阴影 */
-      margin-right: 15px; /* 缩小图片与文字间距 */
-    }
+<div class='paper-box'><div class='paper-box-image'><img src='images/ucb.png' alt="sym" width="30%" style="box-shadow:none;margin-bottom:4px;display:block;">></div>
+<div class='paper-box-text' markdown="1">
 
-    .education-box .paper-box-text {
-      margin: 0;
-    }
-  </style>
-
-  <h1>📖 Educations</h1>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/ucb.png' alt="sym">
-    </div>
-    <div class='paper-box-text' markdown="1">
-      *01/2025-05/2025*, Exchange Student, University of California, Berkeley.
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/nku.png' alt="sym">
-    </div>
-    <div class='paper-box-text' markdown="1">
-      *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University.
-    </div>
-  </div>
+*01/2025-05/2025*, Exchange Student, University of California, Berkeley.
 
 </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/.png' alt="sym" width="30%" style="box-shadow:none;margin-bottom:4px;display:block;">></div>
+<div class='paper-box-text' markdown="1">
+
+*09/2022-06/2026*, B.Eng. in Computer Science, Nankai University.
+</div>
+</div>
+
 
 # 💻 Internships
 - *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
