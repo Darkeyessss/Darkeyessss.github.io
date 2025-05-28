@@ -77,16 +77,16 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 <!-- Education -->
 
-<img src="images/ucb.png" width="100" alt="UCB logo">  <span style="margin-left: 20px;"></span>  *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
+<img src="images/ucb.png" width="100" alt="UCB logo">  <span style="margin-left: 50px;"></span>  *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
 
 
-<img src="images/nku.png" width="100" alt="NKU logo">   *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
+<img src="images/nku.png" width="100" alt="NKU logo">  <span style="margin-left: 50px;"></span>  *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
 
 
 # 💻 Internships
-<img src="images/ut.png" width="100" alt="UC logo">  *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
+<img src="images/ut.png" width="100" alt="UC logo"> <span style="margin-left: 50px;"></span> *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
 
-- *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
+<img src="images/nku.png" width="100" alt="NKU logo">  <span style="margin-left: 50px;"></span> *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
 <!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
