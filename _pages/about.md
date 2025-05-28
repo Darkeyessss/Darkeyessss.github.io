@@ -77,8 +77,8 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 <!-- Education -->
 
-- <img src="images/ucb.png" width="22" align="left" alt="UCB logo"> *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
-- <img src="images/nku.png" width="22" align="left" alt="NKU logo"> *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
+<img src="images/ucb.png" width="50" align="left" alt="UCB logo"> *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
+<img src="images/nku.png" width="50" align="left" alt="NKU logo"> *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
 
 
 # 💻 Internships
@@ -122,6 +122,6 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 - Patent pending: Agent-based retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, utilizing GitHub APIs and abstract syntax tree similarity algorithms.
 
 # 🏃‍♂️ Hobbies
-- 🏸 Badminton: Played for approximately five years; member of the college team.​
+- 🏸 Badminton: Men’s Singles and Doubles Champion of the College.​
 - 🎸 Guitar: Served as the vice president of the Guitar Club.​
 - 🎤 Singing: Recognized as one of the top ten singers in the college.​
