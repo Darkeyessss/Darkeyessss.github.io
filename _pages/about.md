@@ -77,8 +77,8 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 <!-- Education -->
 
-<img src="images/ucb.png" width="80" align="left" alt="UCB logo"> *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
-<img src="images/nku.png" width="80" align="left" alt="NKU logo"> *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
+<img src="images/ucb.png" width="100" align="left" alt="UCB logo"> *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
+<img src="images/nku.png" width="100" align="left" alt="NKU logo"> *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
 
 
 # 💻 Internships
