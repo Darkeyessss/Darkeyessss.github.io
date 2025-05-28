@@ -21,9 +21,8 @@ Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just 
 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
-- RL-augmented language model search and semantic retrieval
 - Enhancing few-shot and zero-shot generalization in embodied agents
-
+<!-- - RL-augmented language model search and semantic retrieval -->
 
 My broader goal is to establish scalable, unified post-training frameworks for embodied multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
 
