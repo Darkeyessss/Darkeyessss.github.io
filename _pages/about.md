@@ -75,21 +75,43 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ucb.png' alt="sym" width="30%"></div>
-<div class='paper-box-text' markdown="1">
+<style>
+.paper-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
 
-*01/2025-05/2025*, Exchange Student, University of California, Berkeley.
+.paper-box-image img {
+  width: 100px;
+  box-shadow: none; /* 去除阴影 */
+  margin-right: 15px; /* 控制图片与文字之间的距离 */
+}
 
+.paper-box-text {
+  margin: 0; /* 去掉额外间距 */
+}
+</style>
+
+<h2>📖 Educations</h2>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/ucb.png' alt="ucb">
+  </div>
+  <div class='paper-box-text'>
+    <p><em>01/2025-05/2025</em>, Exchange Student, University of California, Berkeley.</p>
+  </div>
 </div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/nku.png' alt="sym" width="30%"></div>
-<div class='paper-box-text' markdown="1">
-
-*09/2022-06/2026*, B.Eng. in Computer Science, Nankai University.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/nku.png' alt="nku">
+  </div>
+  <div class='paper-box-text'>
+    <p><em>09/2022-06/2026</em>, B.Eng. in Computer Science, Nankai University.</p>
+  </div>
 </div>
-</div>
-
 
 # 💻 Internships
 - *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
