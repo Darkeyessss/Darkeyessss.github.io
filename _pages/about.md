@@ -39,7 +39,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMEA Workshop</div><img src='images/ript.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMEA Workshop</div><img src='images/ript.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interactive Post-Training for Vision-Language-Action Models](https://www.arxiv.org/pdf/2505.17016)
@@ -54,7 +54,7 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [From Words to Worth: Newborn Article Impact Prediction with LLM](https://arxiv.org/pdf/2408.03934)
@@ -77,22 +77,22 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 <!-- Education -->
 
-<img src="images/ucb.png" width="100" alt="UCB logo">  <span style="margin-left: 50px;"></span>  *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
+<img src="images/ucb.png" width="92" alt="UCB logo">  <span style="margin-left: 50px;"></span>  *01/2025-05/2025*, Exchange Student, University&nbsp;of&nbsp;California, Berkeley  
 
 
-<img src="images/nku.png" width="100" alt="NKU logo">  <span style="margin-left: 50px;"></span>  *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
+<img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span>  *09/2022-06/2026*, B.Eng. in Computer Science, Nankai University
 
 
 # 💻 Internships
 <img src="images/ut.png" width="100" alt="UC logo"> <span style="margin-left: 50px;"></span> *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
 
-<img src="images/nku.png" width="100" alt="NKU logo">  <span style="margin-left: 50px;"></span> *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
+<img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span> *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
 <!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
 # 💬 Projects
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="70%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 JobForce.AI
