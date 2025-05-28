@@ -32,17 +32,33 @@ If you would like to connect further, feel free to contact me via email.
 You can also reach me **on WeChat** at: Darkeyes-
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 I finished my new paper.
+- *2025.05*: &nbsp;🎉🎉 Our paper was accepted at FMEA Workshop @ CVPR 2025.
 - *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025 in Philadelphia.
 - *2025.01*: &nbsp;🎉🎉 I arrived in Berkeley and commenced my exchange program.
 - *2024.12*: &nbsp;🎉🎉 Our paper was accepted at AAAI 2025.
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMEA Workshop</div><img src='images/ript.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interactive Post-Training for Vision-Language-Action Models](https://www.arxiv.org/pdf/2505.17016)
+
+Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Introduces RIPT-VLA, a scalable third-stage reinforcement learning method for VLA models, enhancing performance through interactive training with sparse binary rewards.
+- Demonstrates extraordinary efficiency by improving a near-unusable (4% success rate) supervised model to 97% success with just one demonstration in 15 iterations.
+- Achieves SOTA performance across diverse benchmarks, including LIBERO-90 (94.3%), LIBERO-LONG 5-shot (71.4%), MetaWorld45 5-shot (76.0%), and OpenVLA-OFT (97.5%).
+- Employs dynamic rollout sampling and leave-one-out advantage estimation to significantly enhance generalization, stability, and effectiveness across challenging tasks and scenarios.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[From Words to Worth: Newborn Article Impact Prediction with LLM ](https://arxiv.org/pdf/2408.03934)
+[From Words to Worth: Newborn Article Impact Prediction with LLM](https://arxiv.org/pdf/2408.03934)
 
 Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Ming-Ming Cheng, Xiang Li
 
@@ -65,7 +81,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 # 💻 Internships
 - *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States.
 - *2024.06 - 2025.02*, VCIP Lab, Nankai University, China.
-- *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.
+<!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
 # 💬 Projects
@@ -93,7 +109,7 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 <!-- - *2024.10*, Agent-based technology for automatic author disambiguation and information generation. -->
 
 
-
+<!-- 🎖 Honors and Awards*2024.08* Awarded Outstanding Individual for contributions to Chinasoft International Co., Ltd. *2024.02* Honorable Mention, Mathematical Contest in Modeling (MCM) -->
 
 
 
