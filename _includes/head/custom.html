@@ -22,29 +22,17 @@
 
 <!-- 取消二级标题和 <hr> 的那条底边 -->
 <style>
-  /* 所有 h2（比如 ## Educations） */
-  h2{
-    border-bottom:none !important;
-    padding-bottom:10px !important;  /* 底边没了，顺便收紧空隙 */
+  h1, h2, h3, h4, h5 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  box-shadow: none !important;
   }
-  h3{
-    border-bottom:none !important;
-    padding-bottom:0 !important;  /* 底边没了，顺便收紧空隙 */
+  h1::after, h2::after, h3::after, h4::after, h5::after {
+    display: none !important;
   }
-  h4{
-    border-bottom:none !important;
-    padding-bottom:0 !important;  /* 底边没了，顺便收紧空隙 */
+  hr {
+    display: none !important;
   }
-  h5{
-    border-bottom:none !important;
-    padding-bottom:0 !important;  /* 底边没了，顺便收紧空隙 */
-  }
-  h1{
-    border-bottom:none !important;
-    padding-bottom:0 !important;  /* 底边没了，顺便收紧空隙 */
-  }
-    /* 如果横线其实是 <hr> 画的，一并隐藏 */
-  hr{ display:none !important; }
 </style>
 
 <!-- end custom head snippets -->
