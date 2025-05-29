@@ -42,8 +42,17 @@ You can also reach me **on WeChat** at: Darkeyes-
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FMEA Workshop</div><img src='images/ript.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
+  <div class='paper-box-image' style="flex:0 0 120px;max-width:120px;margin-right:8px;">
+    <div>
+      <div class="badge">FMEA Workshop</div>
+      <!-- ② 图片宽度继续占满自己的列即可 -->
+      <img src='images/ript.png' alt="sym" style="width:100%;">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
 
 ## [Interactive Post-Training for Vision-Language-Action Models](https://www.arxiv.org/pdf/2505.17016)
 
