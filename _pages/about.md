@@ -88,9 +88,19 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 <!-- Education -->
 
-## <img src="images/ucb.png" width="92" alt="UCB logo">  <span style="margin-left: 50px;"></span>  University&nbsp;of&nbsp;California, Berkeley  
+<!-- 图片 + 两行文字并排 -->
+<div style="display:flex; align-items:center;">
 
-*01/2025-05/2025*, Exchange Student
+  <!-- 左边图片列 -->
+  <img src="images/ucb.png" width="92" alt="UCB logo" style="flex:0 0 92px;">
+
+  <!-- 右边文字列 -->
+  <div style="margin-left:8px; line-height:1.4;">
+    <strong>University&nbsp;of&nbsp;California,&nbsp;Berkeley</strong><br>
+    <em>01/2025-05/2025,&nbsp;Exchange&nbsp;Student</em>
+  </div>
+
+</div>
 
 ## <img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span>  Nankai University
 
