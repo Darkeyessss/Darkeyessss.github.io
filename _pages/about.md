@@ -35,6 +35,7 @@ If you would like to connect further, feel free to contact me via email.
 You can also reach me **on WeChat** at: Darkeyes-
 
 # 🔥 News
+
 - *2025.05*: &nbsp;🎉🎉 Our paper was accepted at FMEA Workshop @ CVPR 2025.
 - *2025.02*: &nbsp;🎉🎉 I delivered an oral presentation at AAAI 2025 in Philadelphia.
 - *2024.12*: &nbsp;🎉🎉 Our paper was accepted at AAAI 2025.
@@ -94,6 +95,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 # 📖 Educations
 
+&nbsp;
 
 <!-- 图片 + 两行文字并排 -->
 <div style="display:flex; align-items:center;">
