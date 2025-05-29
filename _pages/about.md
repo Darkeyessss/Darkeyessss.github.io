@@ -142,9 +142,9 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 # 💻 Internships
-<img src="images/ut.png" width="97" alt="UC logo"> <span style="margin-left: 45px;"></span> *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States
+<img src="images/ut.png" width="97" alt="UC logo"> <span style="margin-left: 43px;"></span> *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States
 
-<img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span> *2024.06 - 2025.02*, VCIP Lab, Nankai University, China
+<img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 48px;"></span> *2024.06 - 2025.02*, VCIP Lab, Nankai University, China
 <!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
