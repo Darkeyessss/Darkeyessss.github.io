@@ -44,7 +44,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 <div class='paper-box'>
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
-  <div class='paper-box-image' style="flex:0 0 350px; max-width:350px; margin-right:10px;">
+  <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
     <div>
       <div class="badge">FMEA Workshop</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
@@ -65,8 +65,17 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
+  <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
+    <div>
+      <div class="badge">AAAI 2025</div>
+      <!-- ② 图片宽度继续占满自己的列即可 -->
+      <img src='images/1.png' alt="sym" style="width:100%;">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
 
 ## [From Words to Worth: Newborn Article Impact Prediction with LLM](https://arxiv.org/pdf/2408.03934)
 
