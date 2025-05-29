@@ -86,16 +86,17 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 # 📖 Educations
 
 
-<!-- Education -->
-
 <!-- 图片 + 两行文字并排 -->
 <div style="display:flex; align-items:center;">
 
-  <!-- 左边图片列 -->
-  <img src="images/ucb.png" width="92" alt="UCB logo" style="flex:0 0 92px;">
+  <!-- 左边图片列；多加一个 margin-right 调整间距 -->
+  <img src="images/ucb.png"
+       width="92"
+       alt="UCB logo"
+       style="flex:0 0 92px; margin-right:50px;">
 
   <!-- 右边文字列 -->
-  <div style="margin-left:8px; line-height:1.4;">
+  <div style="line-height:1.4;">
     <strong>University&nbsp;of&nbsp;California,&nbsp;Berkeley</strong><br>
     <em>01/2025-05/2025,&nbsp;Exchange&nbsp;Student</em>
   </div>
