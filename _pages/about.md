@@ -104,6 +104,34 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 </div>
 
+
+
+
+
+
+<!-- 图片 + 两行文字并排 -->
+<div style="display:flex; align-items:center;">
+
+  <!-- 左边图片列；多加一个 margin-right 调整间距 -->
+  <img src="images/nku.png"
+       width="92"
+       alt="nku logo"
+       style="flex:0 0 92px; margin-right:50px;">
+
+  <!-- 右边文字列 -->
+  <div style="line-height:1.4;">
+    <strong>Nankai&nbsp;University</strong><br>
+    <em>09/2022-06/2026</em>
+    <em>B.Eng.&nbsp;in&nbsp;Computer&nbsp;Science</em>
+  </div>
+
+</div>
+
+
+
+
+
+
 ## <img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span>  Nankai University
 
 *09/2022-06/2026*, B.Eng. in Computer Science
