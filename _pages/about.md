@@ -44,7 +44,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 <div class='paper-box'>
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
-  <div class='paper-box-image' style="flex:0 0 300px; max-width:300px; margin-right:80px;">
+  <div class='paper-box-image' style="flex:0 0 350px; max-width:350px; margin-right:10px;">
     <div>
       <div class="badge">FMEA Workshop</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
