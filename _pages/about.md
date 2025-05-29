@@ -129,7 +129,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
   <!-- 右边文字列 -->
   <div style="line-height:1.4;">
-    <strong>Nankai&nbsp;University</strong><br>
+    <strong style="font-size:1.2em;">Nankai&nbsp;University</strong><br>
     <em>09/2022-06/2026</em><br>
     <em>B.Eng.&nbsp;in&nbsp;Computer&nbsp;Science</em>
   </div>
