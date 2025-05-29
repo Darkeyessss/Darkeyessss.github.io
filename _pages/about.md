@@ -44,7 +44,7 @@ You can also reach me **on WeChat** at: Darkeyes-
 
 <div class='paper-box'>
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
-  <div class='paper-box-image' style="flex:0 0 200px; max-width:200px; margin-right:8px;">
+  <div class='paper-box-image' style="flex:0 0 300px; max-width:300px; margin-right:80px;">
     <div>
       <div class="badge">FMEA Workshop</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
@@ -98,14 +98,14 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
   <!-- 右边文字列 -->
   <div style="line-height:1.4;">
     <strong>University&nbsp;of&nbsp;California,&nbsp;Berkeley</strong><br>
-    <em>01/2025-05/2025</em>
+    <em>01/2025-05/2025</em><br>
     <em>Exchange&nbsp;Student</em>
   </div>
 
 </div>
 
 
-
+&nbsp;
 
 
 
@@ -121,7 +121,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
   <!-- 右边文字列 -->
   <div style="line-height:1.4;">
     <strong>Nankai&nbsp;University</strong><br>
-    <em>09/2022-06/2026</em>
+    <em>09/2022-06/2026</em><br>
     <em>B.Eng.&nbsp;in&nbsp;Computer&nbsp;Science</em>
   </div>
 
@@ -131,10 +131,6 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 
-
-## <img src="images/nku.png" width="92" alt="NKU logo">  <span style="margin-left: 50px;"></span>  Nankai University
-
-*09/2022-06/2026*, B.Eng. in Computer Science
 
 # 💻 Internships
 <img src="images/ut.png" width="97" alt="UC logo"> <span style="margin-left: 45px;"></span> *2025.02 - present*, Research Assistant, The University of Texas at Austin, United States
