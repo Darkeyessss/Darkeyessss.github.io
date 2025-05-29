@@ -148,6 +148,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 <!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
+<!-- 
 # 💬 Projects
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div>
@@ -169,7 +170,7 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 
 
 - *2024.06 - 2025.02*, Development of the AI for Research Service App, an automated arXiv paper selection platform that utilizes algorithms to provide users with the latest curated arXiv paper summaries and explanations.
-- *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms.
+- *2024.11*, Developed agent using retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, leveraging GitHub APIs and abstract syntax tree similarity algorithms. -->
 <!-- - *2024.10*, Agent-based technology for automatic author disambiguation and information generation. -->
 
 
