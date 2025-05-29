@@ -97,7 +97,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
   <!-- 右边文字列 -->
   <div style="line-height:1.4;">
-    <strong>University&nbsp;of&nbsp;California,&nbsp;Berkeley</strong><br>
+    <strong style="font-size:1.2em;">University&nbsp;of&nbsp;California,&nbsp;Berkeley</strong><br>
     <em>01/2025-05/2025</em><br>
     <em>Exchange&nbsp;Student</em>
   </div>
