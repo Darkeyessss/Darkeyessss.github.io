@@ -21,14 +21,15 @@ Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just 
 
 I am a junior undergraduate student majoring in Computer Science at Nankai University, and I have just completed my exchange program at the University of California, Berkeley.
 
-Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab under the guidance of [Prof. Xiang Li](https://implus.github.io/).
+This summer, I am working as a research intern at the [MIT Media Lab](https://www.media.mit.edu/), where I focus on robotic manipulation. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab, advised by [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
 - Enhancing few-shot and zero-shot generalization in embodied agents
 <!-- - RL-augmented language model search and semantic retrieval -->
 
-My broader goal is to establish scalable, unified post-training frameworks for embodied multi-modal agents, enabling both fine-grained reasoning and embodied decision-making through unified learning signals.
+I aim to develop embodied agents with the capacity for generalizable reasoning and long-horizon decision-making.
+My long-term vision is to advance the foundations of real-world intelligence through unified perception, control, and learning.
 
 If you would like to connect further, feel free to contact me via email. 
 
@@ -145,6 +146,26 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 # 💻 Internships
 
+
+&nbsp;
+
+<!-- 图片 + 两行文字并排 -->
+<div style="display:flex; align-items:center;">
+
+  <!-- 左边图片列；多加一个 margin-right 调整间距 -->
+  <img src="images/mit.png"
+       width="97"
+       alt="mit logo"
+       style="flex:0 0 97px; margin-right:45px;">
+
+  <!-- 右边文字列 -->
+  <div style="line-height:1.4;">
+    <strong style="font-size:1.2em;">MIT Media Lab</strong><br>
+    <em>2025.06 - present</em><br>
+    <em>Research Intern</em>
+  </div>
+
+</div>
 
 &nbsp;
 
