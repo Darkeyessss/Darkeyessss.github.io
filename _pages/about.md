@@ -21,7 +21,7 @@ Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just 
 
 I am a junior undergraduate student majoring in Computer Science at Nankai University, and I have just completed my exchange program at the University of California, Berkeley.
 
-This summer, I am working as a research intern at the [MIT Media Lab](https://www.media.mit.edu/), where I focus on robotic manipulation. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab, advised by [Prof. Xiang Li](https://implus.github.io/).
+This summer, I am working as a research intern at the both [MIT Media Lab](https://www.media.mit.edu/) and [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/) under the joint supervision of Prof.[Paul Liang](https://pliang279.github.io/) and Prof.[Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/), where I focus on robotic manipulation. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab, advised by [Prof. Xiang Li](https://implus.github.io/).
 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
@@ -148,6 +148,32 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 
 &nbsp;
+
+<!-- 联合实习 MIT + Harvard -->
+<div style="display:flex; align-items:center;">
+
+  <!-- MIT logo -->
+  <img src="images/mit.png"
+       width="75"
+       alt="MIT logo"
+       style="flex:0 0 75px; margin-right:25px;">
+
+  <!-- Harvard logo -->
+  <img src="images/harvard.png"
+       width="75"
+       alt="Harvard logo"
+       style="flex:0 0 75px; margin-right:35px;">
+
+  <!-- 描述文字 -->
+  <div style="line-height:1.4;">
+    <strong style="font-size:1.2em;">
+      MIT Media Lab & Harvard Ophthalmology AI Lab
+    </strong><br>
+    <em>2025.06 – present</em><br>
+    <em>Research Intern (joint appointment)</em><br>
+  </div>
+
+</div>
 
 <!-- 图片 + 两行文字并排 -->
 <div style="display:flex; align-items:center;">
