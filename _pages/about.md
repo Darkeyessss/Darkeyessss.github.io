@@ -175,25 +175,6 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 </div>
 
-<!-- 图片 + 两行文字并排 -->
-<div style="display:flex; align-items:center;">
-
-  <!-- 左边图片列；多加一个 margin-right 调整间距 -->
-  <img src="images/mit.png"
-       width="97"
-       alt="mit logo"
-       style="flex:0 0 97px; margin-right:45px;">
-
-
-  <!-- 右边文字列 -->
-  <div style="line-height:1.4;">
-    <strong style="font-size:1.2em;">MIT Media Lab</strong><br>
-    <em>2025.06 - present</em><br>
-    <em>Research Intern</em>
-  </div>
-
-</div>
-
 &nbsp;
 
 <!-- 图片 + 两行文字并排 -->
