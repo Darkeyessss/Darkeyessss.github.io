@@ -158,6 +158,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
        alt="mit logo"
        style="flex:0 0 97px; margin-right:45px;">
 
+
   <!-- 右边文字列 -->
   <div style="line-height:1.4;">
     <strong style="font-size:1.2em;">MIT Media Lab</strong><br>
