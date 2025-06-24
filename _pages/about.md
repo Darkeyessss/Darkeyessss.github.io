@@ -244,11 +244,6 @@ LLM-Powered Multi-Agent Platform for Job Seekers
 
 
 
-
-# 💡 Patents
-
-Patent pending: Agent-based retrieval-augmented generation system for detecting and evaluating open-source code in arXiv papers, utilizing GitHub APIs and abstract syntax tree similarity algorithms.
-
 # 🏃‍♂️ Hobbies
 - 🏸 Badminton: Men’s Singles and Doubles Champion of the College.​
 - 🎸 Guitar: Served as the vice president of the Guitar Club.​
