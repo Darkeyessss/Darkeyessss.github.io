@@ -31,8 +31,8 @@ My current research interests lie in:
 I aim to develop embodied agents with the capacity for generalizable reasoning and long-horizon decision-making.
 My long-term vision is to advance the foundations of real-world intelligence through unified perception, control, and learning.
 
-
 *I am planning to apply for **PhD programs** in Fall 2026, with a research focus on reinforcement learning, multimodal reasoning, and embodied AI. If you are recruiting or open to collaboration, I would be glad to connect:)*
+
 
 You can also reach me **on WeChat** at: Darkeyes-
 
@@ -177,7 +177,6 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 
 &nbsp;
 
-<!-- 图片 + 两行文字并排 -->
 <div style="display:flex; align-items:center;">
 
   <!-- 左边图片列；多加一个 margin-right 调整间距 -->
