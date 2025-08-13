@@ -220,7 +220,7 @@ Penghai Zhao, Xinghua Xing, **Kairan Dou**, Jinyu Tian, Ying Tai, Jian Yang, Min
 <!-- - *2024.06 - 2024.09*, Chinasoft International Co., Ltd., China.-->
 <!-- - *2023.05 - 2023.08*, Beijing Advanced Digital Technology Co., Ltd., China.-->
 
-<!-- 
+
 # 💬 Projects
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/Poster.jpg' alt="sym" width="100%"></div>
