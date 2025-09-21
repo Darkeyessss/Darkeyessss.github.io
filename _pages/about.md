@@ -80,7 +80,7 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
 
   <div class='paper-box-text' markdown="1">
 
-## [Interactive Post-Training for Vision-Language-Action Models](https://www.arxiv.org/pdf/2505.17016)
+## [EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](https://arxiv.org/abs/2509.00877)
 
 Yuqin Dai*, Guoqing Wang*, Yuan Wang*, **Kairan Dou**, Kaichen Zhou, Zhanwei Zhang, Shuo Yang, Fei Tang, Jun Yin, Pengyu Zeng, Zhenzhe Ying, Can Yi, Changhua Meng, Yuchen Zhou, Yongliang Shen, Shuai Lu
 
