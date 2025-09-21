@@ -74,7 +74,7 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
     <div>
       <div class="badge">Arxiv</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
-      <img src='images/ript.png' alt="sym" style="width:100%;">
+      <img src='images/evi.png' alt="sym" style="width:100%;">
     </div>
   </div>
 
@@ -97,7 +97,7 @@ Yuqin Dai\*, Guoqing Wang\*, Yuan Wang\*, **Kairan Dou**, Kaichen Zhou, Zhanwei 
     <div>
       <div class="badge">AAAI 2025</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
-      <img src='images/evi.png' alt="sym" style="width:100%;">
+      <img src='images/1.png' alt="sym" style="width:100%;">
     </div>
   </div>
 
