@@ -72,7 +72,7 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
   <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
     <div>
-      <div class="badge">FMEA Workshop</div>
+      <div class="badge">Arxiv</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
       <img src='images/ript.png' alt="sym" style="width:100%;">
     </div>
