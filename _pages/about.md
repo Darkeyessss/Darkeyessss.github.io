@@ -82,7 +82,7 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
 
 ## [EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes](https://arxiv.org/abs/2509.00877)
 
-Yuqin Dai*, Guoqing Wang*, Yuan Wang*, **Kairan Dou**, Kaichen Zhou, Zhanwei Zhang, Shuo Yang, Fei Tang, Jun Yin, Pengyu Zeng, Zhenzhe Ying, Can Yi, Changhua Meng, Yuchen Zhou, Yongliang Shen, Shuai Lu
+Yuqin Dai\*, Guoqing Wang\*, Yuan Wang\*, **Kairan Dou**, Kaichen Zhou, Zhanwei Zhang, Shuo Yang, Fei Tang, Jun Yin, Pengyu Zeng, Zhenzhe Ying, Can Yi, Changhua Meng, Yuchen Zhou, Yongliang Shen, Shuai Lu
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Introduces EviNote-RAG, an agentic RAG framework that restructures the pipeline into a retrieve–note–answer process. It trains LLMs to generate Supportive-Evidence Notes (SENs) and leverages an entailment-based Evidence Quality Reward (EQR) to improve evidence selection and reasoning.
