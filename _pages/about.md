@@ -72,6 +72,29 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
   <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
     <div>
+      <div class="badge">FMEA Workshop</div>
+      <!-- ② 图片宽度继续占满自己的列即可 -->
+      <img src='images/ript.png' alt="sym" style="width:100%;">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+## [Interactive Post-Training for Vision-Language-Action Models](https://www.arxiv.org/pdf/2505.17016)
+
+Yuqin Dai*, Guoqing Wang*, Yuan Wang*, **Kairan Dou**, Kaichen Zhou, Zhanwei Zhang, Shuo Yang, Fei Tang, Jun Yin, Pengyu Zeng, Zhenzhe Ying, Can Yi, Changhua Meng, Yuchen Zhou, Yongliang Shen, Shuai Lu
+
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Introduces EviNote-RAG, an agentic RAG framework that restructures the pipeline into a retrieve–note–answer process. It trains LLMs to generate Supportive-Evidence Notes (SENs) and leverages an entailment-based Evidence Quality Reward (EQR) to improve evidence selection and reasoning.
+- Achieves state-of-the-art performance across in-domain and out-of-domain QA benchmarks, with notable relative F1 gains: +20% on HotpotQA (+0.093), +40% on Bamboogle (+0.151), and +91% on 2Wiki (+0.256).
+- Employs structured note-taking and reward-guided filtering to mitigate noisy retrievals, enhance training stability, and improve generalization and efficiency, significantly outperforming CoT, prompt-based, and RL-based baselines.
+</div>
+</div>
+
+<div class='paper-box'>
+  <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
+  <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
+    <div>
       <div class="badge">AAAI 2025</div>
       <!-- ② 图片宽度继续占满自己的列即可 -->
       <img src='images/1.png' alt="sym" style="width:100%;">
