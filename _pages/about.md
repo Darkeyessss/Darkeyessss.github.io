@@ -25,8 +25,9 @@ This summer, I am working as a research intern at the both [MIT Media Lab](https
 
 My current research interests lie in:
 - Reinforcement learning for stability and alignment in VLA models
-- Enhancing few-shot and zero-shot generalization in embodied agents
-<!-- - RL-augmented language model search and semantic retrieval -->
+<!-- - Enhancing few-shot and zero-shot generalization in embodied agents-->
+- Developing algorithms to improve the performance of VLA models in post-training
+- RL-augmented language model search and semantic retrieval
 
 I aim to develop embodied agents with the capacity for generalizable reasoning and long-horizon decision-making.
 My long-term vision is to advance the foundations of real-world intelligence through unified perception, control, and learning.
@@ -68,6 +69,10 @@ Shuhan Tan, **Kairan Dou**, Yue Zhao, Philipp Krähenbüh
 </div>
 </div>
 
+
+
+
+
 <div class='paper-box'>
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
   <div class='paper-box-image' style="flex:0 0 320px; max-width:320px; margin-right:7px;">
@@ -90,6 +95,11 @@ Yuqin Dai\*, Guoqing Wang\*, Yuan Wang\*, **Kairan Dou**, Kaichen Zhou, Zhanwei 
 - Employs structured note-taking and reward-guided filtering to mitigate noisy retrievals, enhance training stability, and improve generalization and efficiency, significantly outperforming CoT, prompt-based, and RL-based baselines.
 </div>
 </div>
+
+
+
+
+
 
 <div class='paper-box'>
   <!-- ① 把包裹图片的 div 固定成一个更小的宽度 -->
