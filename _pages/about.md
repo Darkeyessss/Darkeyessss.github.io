@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there!😊 I'm Kairan Dou, welcome to my personal website! Feel free to just call me Kevin. 
 
-I am a junior undergraduate student majoring in Computer Science at Nankai University, and I have just completed my exchange program at the University of California, Berkeley.
+I am a senior undergraduate student majoring in Computer Science at Nankai University, and I have just completed my exchange program at the University of California, Berkeley.
 
 This summer, I am working as a research intern at the both [MIT Media Lab](https://www.media.mit.edu/) and [Harvard Ophthalmology AI Lab](https://ophai.hms.harvard.edu/) under the joint supervision of [Prof.Paul Liang](https://pliang279.github.io/) and [Prof.Mengyu Wang](https://ophai.hms.harvard.edu/team/dr-wang/), where I focus on robotic manipulation. Since February 2025, I have been a Research Assistant at The University of Texas at Austin, working under the guidance of [Prof. Philipp Krähenbühl](https://www.philkr.net/), focusing on multimodal learning. Previously, I have conducted extensive research at the Visual Computing and Intelligent Perception(VCIP) Lab, advised by [Prof. Xiang Li](https://implus.github.io/).
 
